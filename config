@@ -1,0 +1,10 @@
+[bugzilla]
+server: http://yourbugzilla.xxx.xx
+user: [bz user]
+pass: [bz password]
+products: BZ Product 1,BZ Product 2,BZ Product 3
+
+[jira]
+server: https://yourjira.atlassian.net
+user: [jira user]
+api-token: gLRpkdJHYyD2i76gIhGJ7233
