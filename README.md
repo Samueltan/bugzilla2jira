@@ -29,7 +29,6 @@ Bug ID #52091
 Bug ID #52093
 + Bug ID #52093 is migrated from Bugzilla to Jira successfully with issue id #35345 (JRP1-3)
 Total number of issues that have been migrated for BZ Product 1 from Bugzilla: 3
-```
 
 The logging file will have more details: 
 2019-11-17 18:42:55,251 INFO: 3 bugs have been found for 'BZ Product 1' 
@@ -61,3 +60,4 @@ The logging file will have more details:
 2019-11-17 18:43:11,657 INFO: + Bug ID #52093 is migrated from Bugzilla to Jira successfully with issue id #35345 (JRP1-3) 
 2019-11-17 18:43:12,472 INFO: -> JIRA issue 35345 transition performed: DONE 
 2019-11-17 18:43:12,476 INFO: Bug comment history data file for BZ Product 1 does not exist, the migration will retrieve bugs information from bugzilla!
+```
