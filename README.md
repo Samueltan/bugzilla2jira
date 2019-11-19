@@ -32,9 +32,7 @@ Total number of issues that have been migrated for BZ Product 1 from Bugzilla: 3
 ```
 
 The logging file will have more details: 
-
 2019-11-17 18:42:55,251 INFO: 3 bugs have been found for 'BZ Product 1' 
-
 2019-11-17 18:42:55,251 INFO: Bug comment history data file for BZ Product 1 does not exist, the migration will retrieve bugs information from bugzilla! 
 2019-11-17 18:42:59,241 INFO: + JIRA issue (JRP1-1) with issue id #35343 is created for bug #52090 
 2019-11-17 18:42:59,474 INFO: + Comment is added to issue id #35343 
