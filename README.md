@@ -1,6 +1,6 @@
 # bugzilla2jira
 
-Import bugzilla bugs in JIRA
+Migrate bugs from Bugzilla to JIRA
 
 Simply script to read bugs from Bugzilla and create the corresponding issues in
 JIRA, so you can have both tools synced.
